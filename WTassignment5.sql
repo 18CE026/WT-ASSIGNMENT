@@ -24,5 +24,5 @@ CREATE TABLE `Register` (
 --
 
 INSERT INTO `Register` (`Name`, `Email`, `City`, `Phone Number`) VALUES
-('Varun Randive', 'varun@gmail.com', 'Vadodara', '9635214022');
+('Dharmesh Goraniya', 'dharmesh@gmail.com', 'Porbandar', '8758022282');
 COMMIT;
